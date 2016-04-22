@@ -97,8 +97,8 @@ class EmailConfig {
                 'host' => 'ssl://smtp.gmail.com',
                 'port' => 465,
                 'timeout' => 30,
-                'username' => 'goloktech@gmail.com',
-                'password' => 'golok_TECH&*^',
+                'username' => '',
+                'password' => '',
                 'client' => null,
                 'log' => false
     );
